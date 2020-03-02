@@ -1,0 +1,518 @@
+
+@media (min-width: 1920px) {
+
+
+}
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1169px) {
+.logo a {
+    padding: 20px 0;
+}
+.main-menu ul.navbar-nav li a {
+    padding: 40px 10px;
+}
+.header-area.stick .main-menu ul.navbar-nav li a{
+    padding: 35px 10px;
+}
+.header-right-link a.main-search {
+    margin: 29px 0px 29px 30px;
+}
+.service-content h4 {
+    font-size: 15px;
+}
+.single-services .service-content h4 {
+    font-size: 14px;
+}    
+.fun_text > h5 {
+    font-size: 15px;
+}    
+.sub-head h4 {
+    font-size: 26px;
+} 
+.blog-content a h4 {
+    font-size: 20px;
+}    
+.left-menu ul li a {
+    font-size: 13px;
+    padding: 14px 10px;
+}     
+.down-btn {
+    font-size: 13px;
+    padding: 15px 10px;
+}       
+.choose-area .section-headline h3 {
+    font-size: 24px;
+}    
+.choose-inner {
+    padding: 110px 30px 110px 40px;
+}    
+.choose-wrapper {
+    padding: 70px 30px 70px 0px;
+}   
+.counter-inner {
+    padding: 70px 30px 70px 40px;
+} 
+.about-count {
+    padding: 80px 15px 80px 0px;
+} 		
+	
+	
+	
+	
+
+    
+}
+
+
+
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.main-menu ul.navbar-nav li a,
+.main-menu ul.navbar-nav li a{
+    font-size: 13px;
+    padding: 30px 8px;
+}
+.logo a {
+    padding: 17px 0;
+}
+.header-right-link a.main-search {
+   margin: 19px 0px 19px 15px;
+}
+.header-area.stick .header-right-link a.main-search {
+    margin: 15px 0px 15px 15px;
+}
+.header-area.stick .logo a {
+    padding: 12px 0;
+}
+.section-headline h3 {
+    font-size: 30px;
+}
+.sub-head h4 {
+    font-size: 20px;
+}
+.slider-content {
+    margin-top: -120px;
+}   
+.layer-1-2 h1 {
+    font-size: 26px;
+    line-height: 32px;
+    max-width: 500px;
+}
+.layer-1-1 p {
+    font-size: 17px;
+    line-height: 24px;
+    max-width: 500px;
+}
+.ready-btn {
+    margin-top: 5px;
+}
+.service-content h4,
+.single-services .service-content h4{
+    font-size: 14px;
+}
+.banner-contact {
+    float: left;
+    padding: 10px 0px;
+}
+.left-menu ul li a {
+    font-size: 13px;
+}     
+.down-btn {
+    font-size: 13px;
+    padding: 15px 10px;
+}    
+.support-text {
+    padding: 20px 10px;
+}
+.project-single .support-text {
+   padding: 30px 30px 20px;
+}
+.single-page {
+    margin: 15px 0px;
+}   
+.single-services-page .mar-row {
+    margin-top: 20px;
+}
+.quote-btn {
+    padding: 10px 10px;
+}
+.single-well {
+    margin-top: 10px;
+}
+.project-details h4 {
+    font-size: 22px;
+}
+.header-area-2 .logo a {
+    padding: 10px 0;
+}
+.header-area-2 .main-menu ul.navbar-nav li a, 
+.header-area.stick .main-menu ul.navbar-nav li a {
+    font-size: 13px;
+    padding: 26px 8px;
+}
+.header-area-3.stick .main-menu ul.navbar-nav li a {
+    padding: 20px 15px;
+}
+.header-area-3.stick .header-right-link a.main-search {
+    margin: 10px 0px 10px 15px;
+}
+.intro-area-2 .slider-content {
+    margin-top: -80px;
+}
+.feature-text h4 {
+    font-size: 18px;
+}
+.video-text h4 {
+    font-size: 17px;
+}
+.single-contact h5 {
+    font-size: 17px;
+}
+.contact-icon {
+    padding: 30px 15px;
+}    
+.topbar-left ul li:last-child{
+	display: none;
+}    
+.image-overly {
+    padding: 15px 10px;
+}    
+.image-overly-text .top-icon {
+    font-size: 40px;
+    line-height: 40px;
+    margin-bottom: 10px;
+}
+.well-content h4 {
+    font-size: 14px;
+}
+.all-services .single-services {
+    padding: 15px 10px;
+}
+.counter-inner {
+    padding: 70px 30px 70px 30px;
+}	
+.counter-inner h4 {
+    line-height: 30px;
+    font-size: 16px;
+}	
+.about-count {
+    padding: 70px 10px 70px 10px;
+}
+.fun_text {
+    margin-right: 10px;
+    padding: 30px 5px;
+}
+.fun_text span {
+    font-size: 30px;
+    line-height: 30px;
+}
+.fun_text > h5 {
+    font-size: 12px;
+}
+.choose-inner {
+    padding: 110px 30px 110px 30px;
+}	
+.choose-inner .section-headline h3 {
+    font-size: 18px;
+}
+.services-all .service-content {
+    padding-left: 50px;
+}
+.choose-wrapper {
+    padding: 60px 30px 60px 0px;
+}
+.header-middle-area .header-info:first-child{
+		display: none;
+	}    
+.header-middle-area .header-info {
+    width: 50%;
+    float: left;
+}
+.about-content h4 {
+    font-size: 18px;
+}	
+.top-price-inner h4 {
+    font-size: 18px;
+}
+.blog-search-option input {
+    width: 75%;
+}
+.contact-head h3 {
+    font-size: 22px;
+}	
+	
+	
+	
+	
+	
+    
+}
+
+/* small mobile :320px. */
+@media (max-width: 767px) {
+.container {width:300px}
+.logo {
+    height: inherit;
+    left: 0;
+    padding: 0;
+    position: absolute;
+    top: 2px;
+    z-index: 999999;
+    max-width: 150px;
+}
+.logo a {
+    padding: 0px;
+}
+.pagess::after {
+    display: none;
+}
+.slider-content,
+.intro-area-2 .slider-content{
+    margin-top: -90px;
+}
+.layer-1-2 {
+    margin: 5px 0;
+}
+.layer-1-2 h1 {
+    font-size: 17px;
+    line-height: 20px;
+    margin-bottom: 10px;
+} 
+.layer-1-1 p {
+    font-size: 13px;
+    letter-spacing: 0px;
+    line-height: 20px;
+}
+ .ready-btn.right-btn {
+    margin-left: 5px;
+}   
+.ready-btn {
+    margin-top: 0px;
+    padding: 8px 20px 8px 5px;
+    width: 128px;
+}    
+.intro-area {
+    width: 100%;
+    height: auto;
+    min-height: 220px;
+}
+.intro-content,
+.slider-images img{
+    width: 100%;
+    height: 100%;
+    min-height: 220px;
+}
+.main-services {
+    margin-bottom: 20px;
+}
+.section-headline h3 {
+    font-size: 24px;
+}
+.image-overly {
+    padding: 20px 15px;
+}
+.single-services {
+    padding: 15px;
+}
+.counter-inner {
+    padding: 60px 30px 60px 40px;
+}
+.counter-inner h4 {
+    line-height: 28px;
+    font-size: 18px;
+}
+.about-count {
+    padding: 90px 50px 90px 40px;
+}
+.fun_text {
+    float: none;
+    width: 100%;
+    margin-bottom: 20px;
+	margin-right: 0px;
+}
+.choose-wrapper {
+    padding: 70px 30px 70px 30px;
+}
+.single-services .service-content h4 {
+    font-size: 16px;
+}
+.project-carousel{
+    margin-top: 50px;
+}
+.main-view {
+    float: none;
+    padding: 10px 30px;
+    width: 100%;
+}
+.review-content.owl-carousel.owl-theme .owl-controls .owl-nav div.owl-prev, .review-content.owl-carousel.owl-theme .owl-controls .owl-nav div.owl-next {
+    display: none !important;
+}
+.project-dec h4 {
+    font-size: 16px;
+}
+.contact-icon {
+    margin-bottom: 40px;
+}
+.sub-head h4 {
+    font-size: 24px;
+}
+.banner-contact span {
+    font-size: 17px;
+    margin-right: 6px;
+}    
+.banner-contact span i {
+    margin-right: 10px;
+}
+.banner-btn {
+    float: none;
+    margin-top: 20px;
+}
+.footer-content {
+    margin-bottom: 40px;
+}   
+.copyright {
+    text-align: center;
+    margin: 10px 0px;
+}
+.copyright ul {
+    text-align: center;
+}
+.copyright ul li:first-child {
+    margin-left:0px;
+}
+.copyright ul li a {
+    text-align: center;
+} 
+.about-details {
+    padding-bottom: 30px;
+}
+.single-about {
+    width: 100%;
+}   
+.video-text {
+    margin-top: 30px;
+}
+.video-text h4 {
+    font-size: 16px;
+}
+.left-head-blog {
+    margin-top: 40px;
+}    
+.business-faq {
+    margin-bottom: 40px;
+}    
+.single-faq h3 {
+    font-size: 18px;
+}    
+.project-menu li a {
+    font-size: 13px;
+    margin:5px;
+    padding: 5px 7px;
+}    
+.project-details h3 {
+    font-size: 26px;
+}
+.project-details{
+    margin-bottom: 30px;
+}
+.project-history {
+    padding: 50px 15px;
+    margin-bottom: 30px;
+}
+.single-page {
+    margin: 15px 0px;
+}  
+.single-services-page .mar-row {
+    margin-top: 20px;
+}    
+.client-head {
+    margin-left: 0px;
+} 
+.client-head h3 {
+    font-size: 24px;
+}
+.intro-area.intro-area-2 {
+    margin-top: 68px;
+}
+.choose-inner {
+    padding: 50px 30px 50px 40px;
+} 
+.video-inner.text-center > h3 {
+    font-size: 22px;
+}	
+.table-list{
+	margin:15px 0px;
+}
+.footer-head h4 {
+    margin-bottom: 15px;
+}
+.last-content{
+	margin-bottom: 0px;
+}
+.contact-head {
+    padding: 40px 15px;
+    margin-bottom: 30px;
+}	
+.contact-head h3 {
+    font-size: 20px;
+}
+.breadcrumb .section-headline h3 {
+    font-size: 28px;
+	line-height: 34px;
+}
+.blog-search-option input {
+    width: 77%;
+}		
+.project-details h4 {
+    font-size: 22px;
+}
+.single-well h3 {
+    font-size: 21px;
+}
+.single-well {
+    margin-top: 5px;
+}
+.single-well a h4 {
+    font-size: 18px;
+}
+.tab-menu ul.nav li a {
+    padding: 10px 2px;
+    margin-right: 1px;
+    width: 87px;
+    font-size: 13px;
+}
+.about-content h4 {
+    line-height: 26px;
+    font-size: 16px;
+    margin-top: 20px;
+}	
+.video-area .video-inner {
+    margin-top: 30px;
+}
+.error-easy-text {
+    font-size: 24px;
+}
+.high-text {
+    font-size: 100px;
+    line-height: 120px;
+}
+.error-bot {
+    font-size: 15px;
+}	
+	
+	
+    
+}
+
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+
+ .blog-search-option input {
+    width: 80%;
+}   
+    
+}
+ 
